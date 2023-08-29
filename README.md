@@ -1,7 +1,10 @@
 # Instacart Basket Python Project
-## Marketing strategy project to look into target groups to understand better the sales pattern from Instacart Basket company.
+Marketing strategy project to look into target groups to understand better the sales pattern from Instacart Basket company.
 
-### Which questions were important to answer?
+## Objective
+<img src="/Python_Project_Instacart_Basket/instacart_logo.png">
+
+Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective from this project was performing an initial data and exploratory analysis of some of Instacart data in order to derive insights and suggest strategies for better client segmentation.
 
 The busiest days of the week and hours of the day (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
