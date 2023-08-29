@@ -34,10 +34,10 @@ The code is available as jupyter notebook, available under /scripts/
 ## Folders
 The project contains the following folders:
 
-Analysis/Visualizations: contains all visualizations used in the project, there are 2 extra folders: 
+Analysis/Visualizations: contains all visualizations used in the project, there are 2 extra folders: customer_profile (all data on customer profile visualizations) and general_charts.
 
-Porject Management:
+Project Management: Contains the project brief.
 
-Scripts:
+Scripts: All the jupyter notebooks are here. The folder 4.10 Final project results contain all analysis from the final project that are represented on the final excel presentation.
 
-Sent to client:
+Sent to client: Contains the final presentation excel file with results, conclusions and recomendations.
