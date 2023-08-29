@@ -1,6 +1,7 @@
 # Instacart Basket Python Project
-Marketing strategy project to look into target groups to understand better the sales pattern from Instacart Basket company.
-Which questions were important to answer?
+## Marketing strategy project to look into target groups to understand better the sales pattern from Instacart Basket company.
+
+### Which questions were important to answer?
 
 The busiest days of the week and hours of the day (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
@@ -16,5 +17,5 @@ customers are ordering)
 Simple price range groupings to help direct marketing efforts. 
 The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-All of those questions were answered or partialy answered using charts and crosstables in python. I used the pandas, numpy and seaborn libraries.
+### All of those questions were answered or partialy answered using charts and crosstables in python. I used the pandas, numpy and seaborn libraries.
 
