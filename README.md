@@ -17,5 +17,5 @@ customers are ordering)
 Simple price range groupings to help direct marketing efforts. 
 The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-### All of those questions were answered or partialy answered using charts and crosstables in python. I used the pandas, numpy and seaborn libraries.
+All of those questions were answered or partially answered using charts and crosstables in python. I used the pandas, numpy and seaborn libraries.
 
