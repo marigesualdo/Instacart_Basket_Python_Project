@@ -6,19 +6,24 @@ Marketing strategy project to look into target groups to understand better the s
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective from this project was performing an initial data and exploratory analysis of some of Instacart data in order to derive insights and suggest strategies for better client segmentation.
 
-The busiest days of the week and hours of the day (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
+## Data
 
-The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
-Distribution among users in regards to their brand loyalty.
-Differences in ordering habits based on a customer’s loyalty status.
-Differences in ordering habits based on a customer’s region.
-Connection between age and family status in terms of ordering habits.
-Demography classifications ->> Age? Income? Certain types of goods? Family status?
-Differences in ordering habits of different customer profiles (price of orders, the frequency of orders, the products
-customers are ordering)
+For this project, open sourced datasets from Instacart company were used togheter with a customers dataset created for the propuse of this project. The raws datasets comprise of information on the following parameters:
+Orders
+Products
+Customers
+Departments
 
-Simple price range groupings to help direct marketing efforts. 
-The marketing and sales teams want to know which departments have the highest frequency of product orders.
+## Tools
 
-All of those questions were answered or partially answered using charts and crosstables in python. I used the pandas, numpy and seaborn libraries.
+The following python libraries were used:
+pandas and numpy: for data analysis
+seaborn: for visualizations
+
+## Executing the code
+
+The code is available as jupyter notebook, available under /scripts/
+
+## Folders
+
 
