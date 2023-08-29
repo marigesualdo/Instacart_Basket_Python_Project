@@ -1,4 +1,4 @@
-# Instacart_Basket_Python_Project
+# Instacart Basket Python Project
 Marketing strategy project to look into target groups to understand better the sales pattern from Instacart Basket company.
 Which questions were important to answer?
 
