@@ -9,20 +9,27 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 ## Data
 
 For this project, open sourced datasets from Instacart company were used togheter with a customers dataset created for the propuse of this project. The raws datasets comprise of information on the following parameters:
+
 Orders
+
 Products
+
 Customers
+
 Departments
 
 ## Tools
 
 The following python libraries were used:
+
 pandas and numpy: for data analysis
+
 seaborn: for visualizations
 
 ## Executing the code
 
 The code is available as jupyter notebook, available under /scripts/
+
 
 ## Folders
 
