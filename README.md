@@ -32,5 +32,12 @@ The code is available as jupyter notebook, available under /scripts/
 
 
 ## Folders
+The project contains the following folders:
 
+Analysis/Visualizations: contains all visualizations used in the project, there are 2 extra folders: 
 
+Porject Management:
+
+Scripts:
+
+Sent to client:
